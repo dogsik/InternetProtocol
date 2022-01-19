@@ -6,3 +6,8 @@
 12:22:43 13:42:36 69276 719570 C:\Program Files\Google\Chrome\Application\chrome.exe
 12:30:45 13:34:07 78177 658397 C:\Users\User\Desktop\Programs\Steam\CSGO.exe
 13:35:23 13:55:31 58868 848765 C:\Program Files\Google\Chrome\Application\chrome.exe
+15:04:55 16:05:39 52353 919274 C:\Users\User\Desktop\Programs\Skype\Skype.exe
+16:47:29 16:57:58 12412 125124 C:\Program Files\Google\Chrome\Application\chrome.exe
+16:47:29 16:57:58 12412 125124 C:\Program Files\Google\Chrome\Application\chrome.exe
+20:41:12 22:46:53 63422 867576 C:\Users\User\Desktop\Programs\Skype\PUBG.exe
+23:32:51 23:55:41 87658 875876 C:\Program Files\Google\Chrome\Application\chrome.exe
