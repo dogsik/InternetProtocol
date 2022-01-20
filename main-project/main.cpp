@@ -18,7 +18,7 @@ int main()
     setlocale(LC_ALL, "Russian");
     cout << "Лабораторная работа №8. GIT\n";
     cout << "Вариант №5. Протокол работы в Интернет\n";
-    cout << "Автор: Роман Кокоткин\n\n";
+    cout << "Автор: Козлова Анастасия\n\n";
     protocol* protocols[MAX_FILE_ROWS_COUNT];
     int size;
     try
